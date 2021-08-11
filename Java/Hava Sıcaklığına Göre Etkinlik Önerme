@@ -7,10 +7,9 @@ Sıcaklık 25'ten büyük ise "Yüzme" etkinliğini öner.
 */
 
 
-package Giris;
 import java.util.Scanner;
 
-public class ücgen {
+public class sıcaklık {
     public static void main(String[] args) {
         int heat;
 

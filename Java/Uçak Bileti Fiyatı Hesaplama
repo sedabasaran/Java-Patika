@@ -16,7 +16,7 @@ Kişi "Yolculuk Tipini" gidiş dönüş seçmiş ise bilet fiyatı üzerinden %2
 package Giris;
 import java.util.Scanner;
 
-public class Burc {
+public class Bilet {
     public static void main(String[] args){
         int km, yas,tip;
 

@@ -1,2 +1,2 @@
 # Kodluyoruz-Patika
-Kodluyoruz Patika Sitesindeki eğitimler, ödevler vb.
+Kodluyoruz patika sitesindeki eğitimler ve ödevler bu repositories içindedir.

@@ -1,3 +1,2 @@
 # Kodluyoruz-Patika
-Java ile Backend Web Development Patikası
-
+Kodluyoruz Patika Sitesindeki eğitimler, ödevler vb.

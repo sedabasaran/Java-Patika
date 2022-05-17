@@ -1,4 +1,4 @@
-// bu videodan yapılmıştır: https://www.youtube.com/watch?v=1vBEwDZrN_U&list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W&index=58
+// https://www.youtube.com/watch?v=1vBEwDZrN_U&list=PLEcJSEQK_cD5KHgg9sXumeg659hAr2j4W&index=58
 import java.util.Scanner;
 
 public class Main {
